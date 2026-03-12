@@ -1,0 +1,5 @@
+
+// ESTE ARCHIVO FUE GENERADO POR ERROR EN UNA RESPUESTA ANTERIOR.
+// EL SISTEMA YA USA 'App.tsx' EN LA RAÍZ.
+// PUEDE BORRAR ESTE ARCHIVO SI LO DESEA.
+export default function DummyApp() { return null; }
